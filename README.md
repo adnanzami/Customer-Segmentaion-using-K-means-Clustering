@@ -15,6 +15,8 @@ The following libraries were used for this project:
 2. Pandas
 3. Matplotlib
 4. Plotly
+5. Scikit-learn
+6. Seaborn
 
 
 ## Contributing
